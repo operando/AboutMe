@@ -3,4 +3,6 @@
 
     <string name="my_name">Shinobu Okano</string>
     <string name="my_sns_account_name">operandoOS</string>
+
+    <string name="AboutMeActivity_push">Push!!</string>
 </resources>

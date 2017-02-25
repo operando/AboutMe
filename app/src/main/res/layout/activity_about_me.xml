@@ -25,5 +25,12 @@
             android:layout_marginTop="8dp"
             android:text="@string/my_sns_account_name"
             android:textSize="@dimen/text_xlarge" />
+
+        <Button
+            android:id="@+id/push"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/AboutMeActivity_push" />
     </LinearLayout>
 </layout>
